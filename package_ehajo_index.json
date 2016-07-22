@@ -40,7 +40,7 @@
 				{"name":"eHaJo Gscheiduino"}
 			],
 			"toolsDependencies": [
-				{ "packager": "arduino", "version": "4.8.1-arduino5", "name": "avr-gcc"},
+				{ "packager": "arduino", "version": "4.8.1-arduino5", "name": "avr-gcc"}
 			],
 			"size":"84131"
 		}
