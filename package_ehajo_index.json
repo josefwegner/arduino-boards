@@ -12,7 +12,7 @@
 		{  
 			"category": "Contributed",
 			"name": "eHaJo AVR Boards",
-			"url": "https://github.com/ehajo/arduino-boards/blob/master/packages/ehajo-avr-1.0.0.zip",
+			"url": "https://github.com/ehajo/arduino-boards/raw/master/packages/ehajo-avr-1.0.0.zip",
 			"version": "1.0.0",
 			"architecture": "avr",
 			"archiveFileName": "ehajo-avr-1.0.0.zip",
@@ -25,7 +25,7 @@
 		{  
 			"category": "Contributed",
 			"name": "eHaJo AVR Boards",
-			"url": "https://github.com/ehajo/arduino-boards/blob/master/packages/ehajo-avr-1.0.0.zip",
+			"url": "https://github.com/ehajo/arduino-boards/raw/master/packages/ehajo-avr-1.0.0.zip",
 			"version": "1.0.1",
 			"architecture": "avr",
 			"archiveFileName": "ehajo-avr-1.0.0.zip",
@@ -44,7 +44,7 @@
 		{  
 			"category": "Contributed",
 			"name": "eHaJo AVR Boards",
-			"url": "https://github.com/ehajo/arduino-boards/blob/master/packages/ehajo-avr-1.0.2.zip",
+			"url": "https://github.com/ehajo/arduino-boards/raw/master/packages/ehajo-avr-1.0.2.zip",
 			"version": "1.0.2",
 			"architecture": "avr",
 			"archiveFileName": "ehajo-avr-1.0.2.zip",
@@ -63,7 +63,7 @@
 		{  
 			"category": "Contributed",
 			"name": "eHaJo AVR Boards",
-			"url": "https://github.com/ehajo/arduino-boards/blob/master/packages/ehajo-avr-1.1.0.zip",
+			"url": "https://github.com/ehajo/arduino-boards/raw/master/packages/ehajo-avr-1.1.0.zip",
 			"version": "1.1.0",
 			"architecture": "avr",
 			"archiveFileName": "ehajo-avr-1.1.0.zip",
@@ -83,7 +83,7 @@
 		{  
 			"category": "Contributed",
 			"name": "eHaJo AVR Boards",
-			"url": "https://github.com/ehajo/arduino-boards/blob/master/packages/ehajo-avr-2.0.0.zip",
+			"url": "https://github.com/ehajo/arduino-boards/raw/master/packages/ehajo-avr-2.0.0.zip",
 			"version": "2.0.0",
 			"architecture": "avr",
 			"archiveFileName": "ehajo-avr-2.0.0.zip",
@@ -105,7 +105,7 @@
 		{  
 			"category": "Contributed",
 			"name": "eHaJo AVR Boards",
-			"url": "https://github.com/ehajo/arduino-boards/blob/master/packages/ehajo-avr-2.1.0.zip",
+			"url": "https://github.com/ehajo/arduino-boards/raw/master/packages/ehajo-avr-2.1.0.zip",
 			"version": "2.1.0",
 			"architecture": "avr",
 			"archiveFileName": "ehajo-avr-2.1.0.zip",
@@ -127,7 +127,7 @@
 		{  
 			"category": "Contributed",
 			"name": "eHaJo AVR Boards",
-			"url": "https://github.com/ehajo/arduino-boards/blob/master/packages/ehajo-avr-2.2.0.zip",
+			"url": "https://github.com/ehajo/arduino-boards/raw/master/packages/ehajo-avr-2.2.0.zip",
 			"version": "2.2.0",
 			"architecture": "avr",
 			"archiveFileName": "ehajo-avr-2.2.0.zip",
